@@ -4,6 +4,7 @@ by Ray Khorsandi
 
 | Topic | Demo | Exercise | Solution |
 |---------|-------------|-------------|-------------|
-| Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_to_programming/blob/main/Introduction%20to%20Programming.ipynb) | n/a | n/a |
-| Jupyter Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/intro_ML/blob/main/Jupyter_demo.ipynb) | n/a | n/a |
+| Day 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Python-Fundamentals/blob/main/Python%20Fundamentals%20Day%201.ipynb) | n/a | n/a |
+| Day 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Python-Fundamentals/blob/main/Python%20Fundamentals%20Day%202.ipynb) | n/a | n/a |
+| Day 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Python-Fundamentals/blob/main/Python%20Fundamentals%20Day%203.ipynb) | n/a | n/a |
 
